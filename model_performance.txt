@@ -1,0 +1,2 @@
+Model Accuracy: 0.9991047 
+AUC: 0.9828946
